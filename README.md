@@ -16,5 +16,3 @@
 📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/apoorvasdhume)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail)](mailto:apoorvadhume@gmail.com)  
-
-##![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=apoorvadhume&show_icons=true&theme=radical)
